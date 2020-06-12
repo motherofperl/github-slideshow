@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**foo** *bar* ***foobar*** @motherofperl 
 Use the left arrow to go back!
